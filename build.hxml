@@ -1,0 +1,6 @@
+-cp src
+--library phpnatives
+--library haxe-php-pthreads
+--library haxe-pocketmine-classloader
+--library haxe-pocketmine-log
+-php out

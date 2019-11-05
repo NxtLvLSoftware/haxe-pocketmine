@@ -1,0 +1,8 @@
+/vendor
+/.idea
+/.vscode
+/.vagrant
+/builds
+/out
+*.iml
+DS_Store
